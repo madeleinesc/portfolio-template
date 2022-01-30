@@ -25,7 +25,9 @@ body {
 }
 
 .italic {
-    font-family: 'Libre Baskerville', serif !important;
+    /*font-family: 'Libre Baskerville', serif !important;*/
+    font-family: 'Baskerville';
+    font-style: italic;
 }
 
 .btn {
